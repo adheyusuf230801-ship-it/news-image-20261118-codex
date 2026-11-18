@@ -2,6 +2,7 @@
 
 [![make.fun](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
 [![Rank](https://make.fun/badge/news-image-20261118/adheyusuf230801-ship-it/news-image-20261118-codex/rank.svg)](https://make.fun/bounty/news-image-20261118)
+[![Reward](https://make.fun/badge/news-image-20261118/adheyusuf230801-ship-it/news-image-20261118-codex/reward.svg)](https://make.fun/bounty/news-image-20261118)
 
 A drawn newspaper front page covering six supplied news reports from Wednesday
 18 November 2026. Original bitmap lettering and geometric pictograms are rendered
